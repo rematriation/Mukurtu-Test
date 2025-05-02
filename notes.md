@@ -16,9 +16,10 @@ Overall Impressions:
 ## Create Community Group
 
 [Watch video of process to "Create Community Group"](UI/browser-larger-screen/comm-group-add-member-attempt.mp4): Hard to know how to join, but can easily do so on the user end. But, it errored out. See the video.
-  <video controls style="width: 620px; height:620px">
-    <source src="UI/browser-larger-screen/comm-group-add-member-attempt.mp4" type="video/mp4" />
-  </video>
+
+<video controls style="width: 620px; height:620px">
+  <source src="UI/browser-larger-screen/comm-group-add-member-attempt.mp4" type="video/mp4" />
+</video>
 
 ### "Create Community" Screenshots
 
